@@ -22,7 +22,16 @@ an inverting amplifier and it is given as
 
 ## CIRCUIT DIAGRAM: 
 
+![WhatsApp Image 2025-11-29 at 09 52 21_f037503c](https://github.com/user-attachments/assets/ba0b030f-21ca-4393-8a8e-ac2cb19b75b1)
+
+![WhatsApp Image 2025-11-29 at 09 52 20_8e826c7f](https://github.com/user-attachments/assets/c971980e-ac28-4930-b0db-1ab1571e95bf)
+
+
+
 ## MODEL GRAPH:
+
+![WhatsApp Image 2025-11-29 at 09 58 00_93a9a1c1](https://github.com/user-attachments/assets/d90a888a-66a3-462e-be09-bf54eb82f2c4)
+
 
 ## PROCEDURE:  
 ## Differential amplifier 
@@ -41,9 +50,17 @@ constant input voltage Vin2 to inverting terminal of op-amp through R2.
 
 ## TABULATION:
 
+<img width="1259" height="1143" alt="image" src="https://github.com/user-attachments/assets/423e5b8b-8eaf-4a5b-b6b2-81e563184f3b" />
+
 ## CALCULATIONS:
 
+<img width="1096" height="859" alt="image" src="https://github.com/user-attachments/assets/ec3b4733-989c-4456-89df-00f55f608409" />
+
+
 ## GRAPH:
+
+![WhatsApp Image 2025-11-29 at 10 02 25_a9a2ff9b](https://github.com/user-attachments/assets/0da5958d-127d-4617-8634-ed1b1310a97f)
+
 
  ## RESULTS:
  Thus the Inverting, Non-Inverting and Differential Amplifiers are designed and their 
