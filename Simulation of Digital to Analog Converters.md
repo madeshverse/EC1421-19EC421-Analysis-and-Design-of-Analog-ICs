@@ -36,8 +36,8 @@ For v2 and v3  keeping the other values constant.
 ## CIRCUIT DIAGRAM:
 ### DAC:
 
-<img width="1309" height="814" alt="image" src="https://github.com/user-attachments/assets/30a7ecc8-9190-4136-b667-860c6a66e1c3" />
 
+![WhatsApp Image 2025-11-29 at 11 14 55_2147acc7](https://github.com/user-attachments/assets/b46bc766-3802-41dd-ac6c-98cbf10ba5c0)
 
 ## OUTPUT GRAPH:
 ### DAC:
